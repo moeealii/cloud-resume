@@ -1,0 +1,212 @@
+{
+    "contacts": {
+        "email": "me@mohameda.li",
+        "website": "https://mohameda.li",
+        "location": "Toronto, ON"
+    },
+    "skills": [
+        {
+            "title": "Languages",
+            "subskills": [
+                "Python",
+                "Javascript",
+                "C++",
+                "Swift 5",
+                "HTML5",
+                "CSS3",
+                "Typescript",
+                "Sass"
+            ]
+        },
+        {
+            "title": "Cloud Solutions",
+            "subskills": ["AWS", "Google Cloud", "DynamoDB", "Firebase", "SAM", "Cloud Formation"]
+        },
+        {
+            "title": "Frameworks",
+            "subskills": [
+                "React",
+                "Node",
+                "Express",
+                "Gatsby",
+                "Flask",
+                "TailwindCSS"
+            ]
+        },
+        {
+            "title": "Databases",
+            "subskills": [
+                "Firebase",
+                "MySQL",
+                "Mongodb",
+                "Redis",
+                "AWS RDS",
+                "Aurora",
+                "DynamoDB"
+            ]
+        },
+        {
+            "title": "Software",
+            "subskills": [
+                "Zabbix",
+                "AppDynamics",
+                "Rabbit MQ",
+                "Jenkins",
+                "Cybersource",
+                "GitHub",
+                "Apache Airflow",
+                "Salesforce"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "York University",
+            "location": "Toronto, ON",
+            "degree": "Computer Science BASc",
+            "class": "2013-2017",
+            "coursework": [
+                "Java Programming",
+				"Digital Logic Design",
+                "Software Design",
+                "Computer Network Protocols and Applications"
+            ]
+        },
+
+        {
+            "institution": "Amazon Web Services Certification",
+            "location": "Toronto, ON",
+            "degree": "Solutions Architect Associate-C02 - Accquired Nov 2020, Solutions Architect Professional - in Progress",
+            "class": "Nov 2020",
+            "coursework": [
+                "Infrastructure as a Sevice",
+                "DynamoDB",
+                "Hybrid Enviroments",
+                "Identity and access management",
+                "Cost Optimization"
+            ]
+        }
+
+
+    ],
+    "certifications": [
+        {
+            "name": "AWS Certfied Developer - Associate",
+            "provider": "Amazon Web Services",
+            "start": "8/2020",
+            "end": "8/2023",
+            "link": "https://www.youracclaim.com/badges/9074b44f-2ac9-43ac-b635-7ecedf86c7df/public_url"
+        },
+        {
+            "name": "AWS Solutions Architect - Associate",
+            "provider": "Amazon Web Services",
+            "start": "7/2020",
+            "end": "7/2023",
+            "link": "https://www.youracclaim.com/earner/earned/badge/c0e6b2be-07fc-43f3-b645-f27026268185"
+        }
+    ],
+    "experience": [
+        {
+            "role": "Technical Support Analyst",
+            "company": "Royal Bay Group",
+            "location": "Toronto, ON",
+            "description": "Diagnosed, troubleshootd, and triaged enterprise technology processes and incidents based on SLA. Managed 2000+ end-users (remote and in-person) through Active Directory/TeamViewer and 4000+ devices including desktops, laptops, printers, docks, and phones (iOS and Android). Supportd office internal networks – including WAP, sensors, LAN/network drops, patch panels, switch port/VLAN programming, PoE injection, and server room cable management. Deployed enviroment-wide user group antivirus policies based on business process requirements",
+            "description_cont": "Performed Windows server administration including Active Directory, group policy, Exchange Server, Office 365. Created MS SQL Server Database maintenance and backup plan. Utilized PowerShell scripting to automate reminders for users with expiring domain passwords. Staged computers, installed and configured hardware, software, and related peripherals.",
+            "technology": [
+                "PowerShell",
+                "Office 365",
+                "Microsoft SQL Server",
+                "Active Directory",
+                "Exchange",
+                "Security",
+                "Rabbit MQ",
+                "Jenkins"
+            ],
+            "start": "8/2020",
+            "end": "Present"
+        },
+        {
+            "role": "Personal Shopper",
+            "company": "Holt Renfrew ",
+            "location": "Mississauga, ON",
+            "description": "Achieved top department rating on customer evaluations. Ensured the achievement of sales goals; top salesman per hour in the department. Achieved $1M in sales in first year of employment. Built and maintained strong client base with 100 clients.",
+            "description_cont": "Environmental corporate social responsibility committee member, member of customer evaluation survey committee. Provided an elevated level of customer service while maintaining exceptional knowledge of product.",
+            "technology": [
+                "Highly Driven",
+                "Goal-Oriented",
+                "Problem Sensitivity",
+                "Authenticity",
+                "Client Acquisition",
+                "Client Retention",
+                "Sales Floor CRM",
+                "Bilingual",
+                "Cold Calling",
+                "Relationship Building",
+                "Teamwork",
+                "Active Listening"
+            ],
+            "start": "3/2019",
+            "end": "7/2020"
+        },
+        {
+            "role": "Application Support Engineer",
+            "company": "Go Reply",
+            "location": "London, UK",
+            "description": "Providing ITIL focused technical web application support for highly transactional e-commerce websites (Costco UK/TW/KR, Monsoon, Iceland, PO Ferries) based on the SAP Hybris platform. Troubleshoot and resolved issues around Cloud infrastructure, Network connectivity issues, Payment Gateway Webservices, SFTP/Webdav protocol-based file servers, Load Balancers, Web Servers, Application Servers, Solr search servers, DB Servers.",
+            "description_cont": "Performed in depth logging analysis with graylogs and using text-based manipulation tools provided by Linux operating systems (Ubuntu) and basic BASH scripting constructs. Acted as client first contact in all issues, this involved frequent comms updates and ensuring client is well informed and any confusion or pain points are eliminated.",
+            "technology": [
+                "SAP Hybris",
+                "Cybersource",
+                "Zabbix",
+                "AppDynamics",
+                "AWS",
+                "GCloud",
+                "Rabbit MQ",
+                "Apache",
+                "Tomcat",
+                "Jenkins",
+                "Mongodb",
+                "MySQL",
+                "Command Line Interface",
+                "BASH"
+            ],
+            "start": "1/2018",
+            "end": "2/2019"
+        },
+        {
+            "role": "Micro-controllers Lab Assistant",
+            "company": "York University - Lassonde School of Engineering",
+            "location": "Toronto, ON",
+            "description": "Helped first and second year students learning C++, VHDL. Initialized and troubleshooted multiple integrated development environments.  ",
+            "description_cont": "Conducted extensive literature review related to lab safety guidelines and MCU datasheets.",
+            "technology": ["C++", "VHDL"],
+            "start": "9/2016",
+            "end": "1/2017"
+        }
+    ],
+    "social": [
+        {
+            "service": "linkedin",
+            "url": "https://www.linkedin.com/in/moeealii/"
+        }
+    ],
+    "role": "AWS Certified Solutions Architect, Application Analyst",
+    "projects": [
+        {
+            "name": "Cloud Resume",
+            "company": "Personal Project",
+            "description": "The website you are currently looking at. The frontend is developed in Gatsby, React, Tailwind CSS, while the backend is developed on AWS using IaC (SAM) to deploy a serverless backend of API Gateway, Lambda function and a DynamoDB table. I also use CI/CD tools for both the frontend (CodePipeline) and backend (GitHub Actions)"
+        },
+        {
+            "name": "iOS Application",
+            "company": "Personal Project",
+            "description": "iOS App written in Swift 5 and SwiftUI with Full Firebase Backend Integration. Functional user management system built via Firebase Auth, login with Facebook, Apple ID, Face/Touch ID & forgetten password functionality. All entities retrived from server database, real-time syncing. Maps, review system, live chat, push notifications, dark mode support, search functionality, owner/seller profiles, user flows and more"
+        },
+        {
+            "name": "Site-To-Site VPN",
+            "company": "Cantril",
+            "description": "Implemented a Dynamic, BGP Based, Highly-Available Site-to-Site VPN between a Hybrid AWS and On-premises environment. Configured IPSEC tunnels for on-premises router. Added FRR IP routing protocol on router."
+        }
+    ],
+    "fullname": "Mohamed Ali"
+}
