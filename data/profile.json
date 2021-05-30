@@ -110,8 +110,8 @@
             "role": "Full-Stack Developer",
             "company": "Tactable.io",
             "location": "Toronto, ON",
-            "description": "Built scalable solutions using the latest cloud native technology and best practices. Communicated with numerous high value clients.",
-            "description_cont": "Performed Windows server administration including Active Directory, group policy, Exchange Server, Office 365. Created MS SQL Server Database maintenance and backup plan. Utilized PowerShell scripting to automate reminders for users with expiring domain passwords. Staged computers, installed and configured hardware, software, and related peripherals.",
+            "description": "Built scalable solutions using the latest cloud native technology and best practices. Communicated directly with numerous high value clients. Managed time-sensitive updates, including content changes and database upgrades. Introduced and spearheaded implementation of new technologies into production apps",
+            "description_cont": "Planned, wrote, and debugged web applications and software with complete accuracy. Quickly and accurately transitioned between numerous languages and development stacks as projects demanded.",
             "technology": [
                 "React.js (Next.js)",
                 "Typescript",
