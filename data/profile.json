@@ -95,22 +95,41 @@
             "provider": "Amazon Web Services",
             "start": "8/2020",
             "end": "8/2023",
-            "link": "https://www.youracclaim.com/badges/9074b44f-2ac9-43ac-b635-7ecedf86c7df/public_url"
+            "link": "https://www.youracclaim.com/earner/earned/badge/c0e6b2be-07fc-43f3-b645-f27026268185/public_url"
         },
         {
             "name": "AWS Solutions Architect - Associate",
             "provider": "Amazon Web Services",
             "start": "7/2020",
             "end": "7/2023",
-            "link": "https://www.youracclaim.com/earner/earned/badge/c0e6b2be-07fc-43f3-b645-f27026268185"
+            "link": "https://www.youracclaim.com/earner/earned/badge/c0e6b2be-07fc-43f3-b645-f27026268185/public_url"
         }
     ],
     "experience": [
         {
+            "role": "Full-Stack Developer",
+            "company": "Tactable.io",
+            "location": "Toronto, ON",
+            "description": "Built scalable solutions using the latest cloud native technology and best practices. Communicated with numerous high value clients.",
+            "description_cont": "Performed Windows server administration including Active Directory, group policy, Exchange Server, Office 365. Created MS SQL Server Database maintenance and backup plan. Utilized PowerShell scripting to automate reminders for users with expiring domain passwords. Staged computers, installed and configured hardware, software, and related peripherals.",
+            "technology": [
+                "React.js (Next.js)",
+                "Typescript",
+                "GraphQL",
+                "Hasura",
+                "PostgreSQL",
+                "Docker",
+                "GCP",
+                "Ruby on Rails"
+            ],
+            "start": "2/2021",
+            "end": "Present"
+        },
+        {
             "role": "Technical Support Analyst",
             "company": "Royal Bay Group",
             "location": "Toronto, ON",
-            "description": "Diagnosed, troubleshootd, and triaged enterprise technology processes and incidents based on SLA. Managed 2000+ end-users (remote and in-person) through Active Directory/TeamViewer and 4000+ devices including desktops, laptops, printers, docks, and phones (iOS and Android). Supportd office internal networks – including WAP, sensors, LAN/network drops, patch panels, switch port/VLAN programming, PoE injection, and server room cable management. Deployed enviroment-wide user group antivirus policies based on business process requirements",
+            "description": "Diagnosed, troubleshoot, and triaged enterprise technology processes and incidents based on SLA. Managed 2000+ end-users (remote and in-person) through Active Directory/TeamViewer and 4000+ devices including desktops, laptops, printers, docks, and phones (iOS and Android). Supportd office internal networks – including WAP, sensors, LAN/network drops, patch panels, switch port/VLAN programming, PoE injection, and server room cable management. Deployed enviroment-wide user group antivirus policies based on business process requirements",
             "description_cont": "Performed Windows server administration including Active Directory, group policy, Exchange Server, Office 365. Created MS SQL Server Database maintenance and backup plan. Utilized PowerShell scripting to automate reminders for users with expiring domain passwords. Staged computers, installed and configured hardware, software, and related peripherals.",
             "technology": [
                 "PowerShell",
@@ -123,7 +142,7 @@
                 "Jenkins"
             ],
             "start": "8/2020",
-            "end": "Present"
+            "end": "1/2021"
         },
         {
             "role": "Personal Shopper",
