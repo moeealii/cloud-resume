@@ -25,7 +25,7 @@ const Header = ({ name, role, contacts }) => (
             <div className='my-5 lg:my-0 flex justify-center'>
 
                 <a
-                    href='https://www.youracclaim.com/earner/earned/badge/c0e6b2be-07fc-43f3-b645-f27026268185'
+                    href='https://www.credly.com/badges/c0e6b2be-07fc-43f3-b645-f27026268185/public_url'
                     target='_blank'
                     rel='noreferrer'>
                     <img
