@@ -106,6 +106,25 @@
         }
     ],
     "experience": [
+	{
+            "role": "Full-Stack Developer",
+            "company": "TextNow",
+            "location": "Waterloo, ON",
+            "description": "Designed and developed internal tools utilizing best practices and communicated directly with stakeholders across teams. Improved scalability, service reliability, capacity, and performance for internal tools apps. Participated in on-call rotation, being responsible for uptime and support.",
+            "description_cont": "Worked with DevOps team to make sure that applications fit nicely within the infrastructure and scalability/reliability/security is designed and implemented from the start. Championed and implmented new process automation to improve overall efficeny.",
+            "technology": [
+                "React.js",
+                "Typescript",
+                "Ruby",
+                "Ruby on Rails",
+                "Snowflake",
+                "Docker",
+                "AWS",
+		"MySQL" 
+            ],
+            "start": "4/2022",
+            "end": "Present"
+        },
         {
             "role": "Full-Stack Developer",
             "company": "Tactable.io",
@@ -123,7 +142,7 @@
                 "Ruby on Rails"
             ],
             "start": "9/2019",
-            "end": "Present"
+            "end": "4/2022"
         },
         {
             "role": "Technical Support Analyst",
