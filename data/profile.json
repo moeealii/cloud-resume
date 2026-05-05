@@ -76,12 +76,12 @@
         {
             "institution": "Amazon Web Services Certification",
             "location": "Toronto, ON",
-            "degree": "Solutions Architect Associate-C02 - Accquired Nov 2020, Solutions Architect Professional - in Progress",
+            "degree": "Solutions Architect Associate-C02 - Acquired Nov 2020, Solutions Architect Professional - in Progress",
             "class": "Nov 2020",
             "coursework": [
-                "Infrastructure as a Sevice",
+                "Infrastructure as a Service",
                 "DynamoDB",
-                "Hybrid Enviroments",
+                "Hybrid Environments",
                 "Identity and access management",
                 "Cost Optimization"
             ]
@@ -91,7 +91,7 @@
     ],
     "certifications": [
         {
-            "name": "AWS Certfied Developer - Associate",
+            "name": "AWS Certified Developer - Associate",
             "provider": "Amazon Web Services",
             "start": "8/2020",
             "end": "8/2023",
@@ -111,7 +111,7 @@
             "company": "TextNow",
             "location": "Waterloo, ON",
             "description": "Designed and developed internal tools utilizing best practices and communicated directly with stakeholders across teams. Improved scalability, service reliability, capacity, and performance for internal tools apps. Participated in on-call rotation, being responsible for uptime and support.",
-            "description_cont": "Worked with DevOps team to make sure that applications fit nicely within the infrastructure and scalability/reliability/security is designed and implemented from the start. Championed and implmented new process automation to improve overall efficeny.",
+            "description_cont": "Worked with DevOps team to make sure that applications fit nicely within the infrastructure and scalability/reliability/security is designed and implemented from the start. Championed and implemented new process automation to improve overall efficiency.",
             "technology": [
                 "React.js",
                 "Typescript",
@@ -148,7 +148,7 @@
             "role": "Technical Support Analyst",
             "company": "Royal Bay Group",
             "location": "Toronto, ON",
-            "description": "Diagnosed, troubleshoot, and triaged enterprise technology processes and incidents based on SLA. Managed 2000+ end-users (remote and in-person) through Active Directory/TeamViewer and 4000+ devices including desktops, laptops, printers, docks, and phones (iOS and Android). Supportd office internal networks – including WAP, sensors, LAN/network drops, patch panels, switch port/VLAN programming, PoE injection, and server room cable management. Deployed enviroment-wide user group antivirus policies based on business process requirements",
+            "description": "Diagnosed, troubleshoot, and triaged enterprise technology processes and incidents based on SLA. Managed 2000+ end-users (remote and in-person) through Active Directory/TeamViewer and 4000+ devices including desktops, laptops, printers, docks, and phones (iOS and Android). Supported office internal networks – including WAP, sensors, LAN/network drops, patch panels, switch port/VLAN programming, PoE injection, and server room cable management. Deployed environment-wide user group antivirus policies based on business process requirements",
             "description_cont": "Performed Windows server administration including Active Directory, group policy, Exchange Server, Office 365. Created MS SQL Server Database maintenance and backup plan. Utilized PowerShell scripting to automate reminders for users with expiring domain passwords. Staged computers, installed and configured hardware, software, and related peripherals.",
             "technology": [
                 "PowerShell",
@@ -215,7 +215,7 @@
         {
             "name": "iOS Application",
             "company": "Personal Project",
-            "description": "iOS App written in Swift 5 and SwiftUI with Full Firebase Backend Integration. Functional user management system built via Firebase Auth, login with Facebook, Apple ID, Face/Touch ID & forgetten password functionality. All entities retrived from server database, real-time syncing. Maps, review system, live chat, push notifications, dark mode support, search functionality, owner/seller profiles, user flows and more"
+            "description": "iOS App written in Swift 5 and SwiftUI with Full Firebase Backend Integration. Functional user management system built via Firebase Auth, login with Facebook, Apple ID, Face/Touch ID & forgotten password functionality. All entities retrieved from server database, real-time syncing. Maps, review system, live chat, push notifications, dark mode support, search functionality, owner/seller profiles, user flows and more"
         },
         {
             "name": "Site-To-Site VPN",
