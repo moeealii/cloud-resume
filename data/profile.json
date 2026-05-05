@@ -106,24 +106,42 @@
         }
     ],
     "experience": [
-	{
+        {
+            "role": "Senior Software Developer",
+            "company": "TextNow",
+            "location": "Waterloo, ON",
+            "description": "Leading the AI team, architecting and building infrastructure for agentic workflows that power intelligent automation across the platform. Driving technical strategy for AI integration, from model orchestration to production deployment pipelines.",
+            "description_cont": "Designing scalable systems that bridge LLM capabilities with existing services, enabling autonomous task execution and intelligent decision-making at scale. Mentoring developers and establishing best practices for AI-native software development.",
+            "technology": [
+                "Python",
+                "Go",
+                "Kubernetes",
+                "AWS",
+                "LLMs",
+                "Redis",
+                "CI/CD"
+            ],
+            "start": "5/2025",
+            "end": "Present"
+        },
+        {
             "role": "Full-Stack Developer",
             "company": "TextNow",
             "location": "Waterloo, ON",
-            "description": "Designed and developed internal tools utilizing best practices and communicated directly with stakeholders across teams. Improved scalability, service reliability, capacity, and performance for internal tools apps. Participated in on-call rotation, being responsible for uptime and support.",
-            "description_cont": "Worked with DevOps team to make sure that applications fit nicely within the infrastructure and scalability/reliability/security is designed and implemented from the start. Championed and implemented new process automation to improve overall efficiency.",
+            "description": "Designed and built internal tools end-to-end, collaborating directly with stakeholders across engineering, product, and operations. Drove measurable improvements in scalability, service reliability, and performance for critical internal applications.",
+            "description_cont": "Partnered with DevOps to embed reliability and security into application architecture from day one. Led process automation initiatives that streamlined workflows and reduced manual overhead across teams.",
             "technology": [
                 "React.js",
-                "Typescript",
-                "Ruby",
+                "TypeScript",
                 "Ruby on Rails",
-                "Snowflake",
-                "Docker",
-                "AWS",
-		"MySQL" 
+                "Go",
+                "PHP",
+                "Kubernetes",
+                "Redis",
+                "MySQL"
             ],
             "start": "4/2022",
-            "end": "Present"
+            "end": "5/2025"
         },
         {
             "role": "Full-Stack Developer",
