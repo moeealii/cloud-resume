@@ -29,6 +29,7 @@ function SEO({ description, lang, meta, title }) {
 
   return (
     <Helmet
+      link={[{ rel: `icon`, type: `image/png`, href: `/favicon.png` }]}
       htmlAttributes={{
         lang,
       }}

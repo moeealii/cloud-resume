@@ -71,38 +71,29 @@
                 "Software Design",
                 "Computer Network Protocols and Applications"
             ]
-        },
-
-        {
-            "institution": "Amazon Web Services Certification",
-            "location": "Toronto, ON",
-            "degree": "Solutions Architect Associate-C02 - Acquired Nov 2020, Solutions Architect Professional - in Progress",
-            "class": "Nov 2020",
-            "coursework": [
-                "Infrastructure as a Service",
-                "DynamoDB",
-                "Hybrid Environments",
-                "Identity and access management",
-                "Cost Optimization"
-            ]
         }
-
-
     ],
     "certifications": [
         {
-            "name": "AWS Certified Developer - Associate",
-            "provider": "Amazon Web Services",
-            "start": "8/2020",
-            "end": "8/2023",
-            "link": "https://www.credly.com/badges/c0e6b2be-07fc-43f3-b645-f27026268185/public_url"
+            "name": "Professional Cloud Architect",
+            "provider": "Google Cloud",
+            "issued": "March 2022",
+            "credentialId": "48219724",
+            "link": "https://www.linkedin.com/in/moeealii/details/certifications/"
         },
         {
-            "name": "AWS Solutions Architect - Associate",
+            "name": "AWS Certified Developer – Associate",
             "provider": "Amazon Web Services",
-            "start": "7/2020",
-            "end": "7/2023",
-            "link": "https://www.credly.com/badges/c0e6b2be-07fc-43f3-b645-f27026268185/public_url"
+            "issued": "January 2023",
+            "expired": "January 2026",
+            "link": "https://www.linkedin.com/in/moeealii/details/certifications/"
+        },
+        {
+            "name": "AWS Certified Solutions Architect – Associate",
+            "provider": "Amazon Web Services",
+            "issued": "November 2020",
+            "expired": "November 2023",
+            "link": "https://www.linkedin.com/in/moeealii/details/certifications/"
         }
     ],
     "experience": [
@@ -223,7 +214,7 @@
             "url": "https://www.linkedin.com/in/moeealii/"
         }
     ],
-    "role": "AWS Certified Solutions Architect, Full Stack Developer",
+    "role": "Senior Software Developer focused on AI systems",
     "projects": [
         {
             "name": "Cloud Resume",
