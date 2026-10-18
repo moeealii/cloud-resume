@@ -8,7 +8,7 @@ const Education = ({ data = [] }) => (
     {data.map((item) => (
       <div className="education" key={item.institution}>
         <h3>{item.institution}</h3>
-        <strong>{item.degree}</strong>
+        <strong>{item.field}</strong>
         <p>
           {item.location} · {item.years}
         </p>
