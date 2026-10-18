@@ -3,6 +3,7 @@ import React from "react";
 import Header from "../components/Header";
 import Experience from "../components/Experience";
 import ProjectGroup from "../components/ProjectGroup";
+import Education from "../components/Education";
 import Certifications from "../components/Certifications";
 import Skills from "../components/Skills";
 import Footer from "../components/Footer";
@@ -28,6 +29,7 @@ const IndexPage = () => (
         <ProjectGroup data={resume.projects} />
       </div>
       <aside>
+        <Education data={resume.education} />
         <Certifications data={resume.certifications} />
         <Skills data={resume.skills} />
       </aside>

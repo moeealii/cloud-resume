@@ -6,6 +6,14 @@
     "email": "me@mohameda.li",
     "location": "Toronto, ON"
   },
+  "education": [
+    {
+      "institution": "York University",
+      "degree": "BASc, Computer Science",
+      "location": "Toronto, ON",
+      "years": "2013–2017"
+    }
+  ],
   "experience": [
     {
       "role": "Senior Software Developer",
@@ -43,6 +51,11 @@
     }
   ],
   "projects": [
+    {
+      "name": "Pandew",
+      "company": "Side Project",
+      "description": "An AI-powered skincare app for tracking products, scanning them with the camera, and building personalized morning and evening routines."
+    },
     {
       "name": "Cloud Resume",
       "company": "Personal Project",
