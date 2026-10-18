@@ -218,6 +218,17 @@ a:hover {
   color: var(--muted);
   margin: 6px 0 0;
 }
+.education-coursework {
+  margin-top: 18px;
+}
+.education-coursework h4 {
+  font-size: 13px;
+  font-weight: 650;
+  margin: 0;
+}
+.education-coursework .tag-list {
+  margin-top: 10px;
+}
 .certification-list {
   display: grid;
   gap: 10px;
