@@ -186,8 +186,7 @@ a:hover {
   font-weight: 650;
   margin: 0;
 }
-.project-heading a,
-.cert-link {
+.project-heading a {
   color: var(--blue);
   font-size: 12px;
   font-weight: 650;
@@ -219,45 +218,64 @@ a:hover {
   margin: 6px 0 0;
 }
 .certification-list {
-  display: grid;
-  gap: 10px;
-  padding-top: 8px;
+  padding-top: 2px;
 }
 .certification {
-  display: flex;
-  flex-direction: column;
-  gap: 4px;
-  padding: 17px 18px;
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-left: 3px solid #6a95c4;
-  border-radius: 7px;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 12px;
+  padding: 18px 2px 20px;
+  border-bottom: 1px solid #cfd9e5;
   text-decoration: none;
-  transition: border-color 0.2s, box-shadow 0.2s;
+  color: var(--ink);
 }
-.certification:hover {
-  border-color: #a3bddb;
-  box-shadow: 0 4px 14px rgba(27, 59, 96, 0.08);
+.certification:first-child {
+  padding-top: 10px;
+}
+.certification:last-child {
+  border-bottom: 0;
+}
+.certification:hover .cert-name,
+.certification:focus-visible .cert-name {
+  text-decoration: underline;
+  text-decoration-color: #9db5d0;
+  text-underline-offset: 4px;
+}
+.certification:focus-visible {
+  outline: 2px solid var(--blue);
+  outline-offset: 3px;
 }
 .cert-provider {
-  text-transform: uppercase;
-  font-size: 10px;
-  font-weight: 700;
-  letter-spacing: 0.08em;
-  color: #6c83a0;
+  display: block;
+  color: #345d89;
+  font-size: 12px;
+  font-weight: 600;
 }
-.certification strong {
-  font-size: 16px;
-  line-height: 1.3;
+.cert-name {
+  display: block;
+  margin: 5px 0 8px;
+  font-size: 17px;
+  line-height: 1.35;
   font-weight: 650;
 }
 .cert-date,
 .cert-id {
-  font-size: 11px;
+  display: block;
+  font-size: 12px;
+  line-height: 1.5;
   color: var(--muted);
 }
-.cert-link {
-  margin-top: 5px;
+.cert-id {
+  margin-top: 2px;
+}
+.cert-arrow {
+  color: var(--blue);
+  font-size: 20px;
+  line-height: 1;
+  transition: transform 0.2s ease;
+}
+.certification:hover .cert-arrow {
+  transform: translate(2px, -2px);
 }
 .skill-group {
   padding: 16px 0 12px;

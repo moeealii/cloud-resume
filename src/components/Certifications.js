@@ -14,16 +14,18 @@ const Certifications = ({ data = [] }) => (
           target="_blank"
           rel="noreferrer"
         >
-          <span className="cert-provider">{cert.provider}</span>
-          <strong>{cert.name}</strong>
-          <span className="cert-date">
-            Issued {cert.issued}
-            {cert.expired ? ` · Expired ${cert.expired}` : ""}
+          <span>
+            <span className="cert-provider">{cert.provider}</span>
+            <strong className="cert-name">{cert.name}</strong>
+            <span className="cert-date">
+              Issued {cert.issued}
+              {cert.expired ? ` · Expired ${cert.expired}` : ""}
+            </span>
+            {cert.credentialId && (
+              <span className="cert-id">Credential ID {cert.credentialId}</span>
+            )}
           </span>
-          {cert.credentialId && (
-            <span className="cert-id">Credential ID {cert.credentialId}</span>
-          )}
-          <span className="cert-link">View credential ↗</span>
+          <span className="cert-arrow" aria-hidden="true">↗</span>
         </a>
       ))}
     </div>
