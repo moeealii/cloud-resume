@@ -626,17 +626,10 @@ a.credential:hover {
   border-top: 1px solid #abc978;
   padding-top: 20px;
 }
-.credential-stack {
-  display: flex;
-  flex-direction: column;
-  gap: 12px;
-}
 .credential-secondary {
   background: #fff;
   border: 1px solid var(--line);
-}
-.credential-education {
-  background: #e8ede5;
+  min-height: 386px;
 }
 .contact {
   background: #244940;
@@ -828,6 +821,9 @@ a.credential:hover {
   }
   .credential-featured {
     min-height: 335px;
+  }
+  .credential-secondary {
+    min-height: 220px;
   }
   .contact-layout {
     grid-template-columns: 1fr;

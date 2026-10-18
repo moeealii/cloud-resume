@@ -288,33 +288,21 @@ const IndexPage = () => (
               View on LinkedIn <Arrow />
             </span>
           </a>
-          <div className="credential-stack">
-            <a
-              className="credential credential-secondary"
-              href={credentials}
-              target="_blank"
-              rel="noreferrer"
-            >
-              <div className="credential-top">
-                <span>AMAZON WEB SERVICES / CERTIFICATION</span>
-                <Arrow diagonal />
-              </div>
-              <div>
-                <h3>Solutions Architect – Associate</h3>
-                <p>Earned November 2020 · Expired November 2023</p>
-              </div>
-            </a>
-            <div className="credential credential-education">
-              <div className="credential-top">
-                <span>EDUCATION</span>
-                <span aria-hidden="true">✳</span>
-              </div>
-              <div>
-                <h3>Computer Science, BASc</h3>
-                <p>York University · 2013–2017</p>
-              </div>
+          <a
+            className="credential credential-secondary"
+            href={credentials}
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="credential-top">
+              <span>AMAZON WEB SERVICES / CERTIFICATION</span>
+              <Arrow diagonal />
             </div>
-          </div>
+            <div>
+              <h3>Solutions Architect – Associate</h3>
+              <p>Earned November 2020 · Expired November 2023</p>
+            </div>
+          </a>
         </div>
       </section>
       <section className="contact" id="contact" aria-labelledby="contact-title">

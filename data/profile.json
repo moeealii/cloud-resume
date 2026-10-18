@@ -59,20 +59,6 @@
             ]
         }
     ],
-    "education": [
-        {
-            "institution": "York University",
-            "location": "Toronto, ON",
-            "degree": "Computer Science BASc",
-            "class": "2013-2017",
-            "coursework": [
-                "Java Programming",
-				"Digital Logic Design",
-                "Software Design",
-                "Computer Network Protocols and Applications"
-            ]
-        }
-    ],
     "certifications": [
         {
             "name": "Professional Cloud Architect",
@@ -152,60 +138,6 @@
             ],
             "start": "9/2019",
             "end": "4/2022"
-        },
-        {
-            "role": "Technical Support Analyst",
-            "company": "Royal Bay Group",
-            "location": "Toronto, ON",
-            "description": "Diagnosed, troubleshoot, and triaged enterprise technology processes and incidents based on SLA. Managed 2000+ end-users (remote and in-person) through Active Directory/TeamViewer and 4000+ devices including desktops, laptops, printers, docks, and phones (iOS and Android). Supported office internal networks – including WAP, sensors, LAN/network drops, patch panels, switch port/VLAN programming, PoE injection, and server room cable management. Deployed environment-wide user group antivirus policies based on business process requirements",
-            "description_cont": "Performed Windows server administration including Active Directory, group policy, Exchange Server, Office 365. Created MS SQL Server Database maintenance and backup plan. Utilized PowerShell scripting to automate reminders for users with expiring domain passwords. Staged computers, installed and configured hardware, software, and related peripherals.",
-            "technology": [
-                "PowerShell",
-                "Office 365",
-                "Microsoft SQL Server",
-                "Active Directory",
-                "Exchange",
-                "Security",
-                "Rabbit MQ",
-                "Jenkins"
-            ],
-            "start": "3/2019",
-            "end": "8/2019"
-        },
-        {
-            "role": "Application Support Engineer",
-            "company": "Go Reply",
-            "location": "London, UK",
-            "description": "Providing ITIL focused technical web application support for highly transactional e-commerce websites (Costco UK/TW/KR, Monsoon, Iceland, PO Ferries) based on the SAP Hybris platform. Troubleshoot and resolved issues around Cloud infrastructure, Network connectivity issues, Payment Gateway Webservices, SFTP/Webdav protocol-based file servers, Load Balancers, Web Servers, Application Servers, Solr search servers, DB Servers.",
-            "description_cont": "Performed in depth logging analysis with graylogs and using text-based manipulation tools provided by Linux operating systems (Ubuntu) and basic BASH scripting constructs. Acted as client first contact in all issues, this involved frequent comms updates and ensuring client is well informed and any confusion or pain points are eliminated.",
-            "technology": [
-                "SAP Hybris",
-                "Cybersource",
-                "Zabbix",
-                "AppDynamics",
-                "AWS",
-                "GCloud",
-                "Rabbit MQ",
-                "Apache",
-                "Tomcat",
-                "Jenkins",
-                "Mongodb",
-                "MySQL",
-                "Command Line Interface",
-                "BASH"
-            ],
-            "start": "5/2017",
-            "end": "2/2019"
-        },
-        {
-            "role": "Micro-controllers Lab Assistant",
-            "company": "York University - Lassonde School of Engineering",
-            "location": "Toronto, ON",
-            "description": "Helped first and second year students learning C++, VHDL. Initialized and troubleshooted multiple integrated development environments.  ",
-            "description_cont": "Conducted extensive literature review related to lab safety guidelines and MCU datasheets.",
-            "technology": ["C++", "VHDL"],
-            "start": "9/2016",
-            "end": "1/2017"
         }
     ],
     "social": [
