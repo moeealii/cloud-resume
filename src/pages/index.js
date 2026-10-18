@@ -29,8 +29,8 @@ const IndexPage = () => (
         <ProjectGroup data={resume.projects} />
       </div>
       <aside>
-        <Certifications data={resume.certifications} />
         <Education data={resume.education} />
+        <Certifications data={resume.certifications} />
         <Skills data={resume.skills} />
       </aside>
     </main>
