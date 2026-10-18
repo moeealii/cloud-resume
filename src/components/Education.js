@@ -12,18 +12,6 @@ const Education = ({ data = [] }) => (
         <p>
           {item.location} · {item.years}
         </p>
-        {item.coursework && (
-          <div className="education-coursework">
-            <h4>Relevant coursework</h4>
-            <div className="tag-list">
-              {item.coursework.map((course) => (
-                <span className="tag" key={course}>
-                  {course}
-                </span>
-              ))}
-            </div>
-          </div>
-        )}
       </div>
     ))}
   </section>
