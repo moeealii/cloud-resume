@@ -1,245 +1,93 @@
 {
-    "contacts": {
-        "email": "me@mohameda.li",
-        "website": "https://mohameda.li",
-        "location": "Toronto, ON"
+  "fullname": "Mohamed Ali",
+  "role": "Senior Software Developer · AI Systems",
+  "summary": "Leading AI engineering at TextNow, building agentic workflows and production systems that connect language models to useful tools and services.",
+  "contacts": {
+    "email": "me@mohameda.li",
+    "location": "Toronto, ON"
+  },
+  "experience": [
+    {
+      "role": "Senior Software Developer",
+      "company": "TextNow",
+      "location": "Waterloo, ON",
+      "start": "5/2025",
+      "end": "Present",
+      "description": "Leading AI engineering and building infrastructure for agentic workflows, model orchestration, and integrations with existing services.",
+      "description_cont": "Working across platform architecture and production deployment to make AI features reliable and useful.",
+      "technology": ["Python", "Go", "Kubernetes", "AWS", "LLMs"]
     },
-    "skills": [
-        {
-            "title": "Languages",
-            "subskills": [
-                "Python",
-                "Javascript",
-                "C++",
-                "Swift 5",
-                "HTML5",
-                "CSS3",
-                "Typescript",
-                "Sass"
-            ]
-        },
-        {
-            "title": "Cloud Solutions",
-            "subskills": ["AWS", "Google Cloud", "DynamoDB", "Firebase", "SAM", "Cloud Formation"]
-        },
-        {
-            "title": "Frameworks",
-            "subskills": [
-                "React",
-                "Node",
-                "Express",
-                "Gatsby",
-                "Flask",
-                "TailwindCSS"
-            ]
-        },
-        {
-            "title": "Databases",
-            "subskills": [
-                "Firebase",
-                "MySQL",
-                "Mongodb",
-                "Redis",
-                "AWS RDS",
-                "Aurora",
-                "DynamoDB"
-            ]
-        },
-        {
-            "title": "Software",
-            "subskills": [
-                "Zabbix",
-                "AppDynamics",
-                "Rabbit MQ",
-                "Jenkins",
-                "Cybersource",
-                "GitHub",
-                "Apache Airflow",
-                "Salesforce"
-            ]
-        }
-    ],
-    "education": [
-        {
-            "institution": "York University",
-            "location": "Toronto, ON",
-            "degree": "Computer Science BASc",
-            "class": "2013-2017",
-            "coursework": [
-                "Java Programming",
-				"Digital Logic Design",
-                "Software Design",
-                "Computer Network Protocols and Applications"
-            ]
-        },
-
-        {
-            "institution": "Amazon Web Services Certification",
-            "location": "Toronto, ON",
-            "degree": "Solutions Architect Associate-C02 - Acquired Nov 2020, Solutions Architect Professional - in Progress",
-            "class": "Nov 2020",
-            "coursework": [
-                "Infrastructure as a Service",
-                "DynamoDB",
-                "Hybrid Environments",
-                "Identity and access management",
-                "Cost Optimization"
-            ]
-        }
-
-
-    ],
-    "certifications": [
-        {
-            "name": "AWS Certified Developer - Associate",
-            "provider": "Amazon Web Services",
-            "start": "8/2020",
-            "end": "8/2023",
-            "link": "https://www.credly.com/badges/c0e6b2be-07fc-43f3-b645-f27026268185/public_url"
-        },
-        {
-            "name": "AWS Solutions Architect - Associate",
-            "provider": "Amazon Web Services",
-            "start": "7/2020",
-            "end": "7/2023",
-            "link": "https://www.credly.com/badges/c0e6b2be-07fc-43f3-b645-f27026268185/public_url"
-        }
-    ],
-    "experience": [
-        {
-            "role": "Senior Software Developer",
-            "company": "TextNow",
-            "location": "Waterloo, ON",
-            "description": "Leading the AI team, architecting and building infrastructure for agentic workflows that power intelligent automation across the platform. Driving technical strategy for AI integration, from model orchestration to production deployment pipelines.",
-            "description_cont": "Designing scalable systems that bridge LLM capabilities with existing services, enabling autonomous task execution and intelligent decision-making at scale. Mentoring developers and establishing best practices for AI-native software development.",
-            "technology": [
-                "Python",
-                "Go",
-                "Kubernetes",
-                "AWS",
-                "LLMs",
-                "Redis",
-                "CI/CD"
-            ],
-            "start": "5/2025",
-            "end": "Present"
-        },
-        {
-            "role": "Full-Stack Developer",
-            "company": "TextNow",
-            "location": "Waterloo, ON",
-            "description": "Designed and built internal tools end-to-end, collaborating directly with stakeholders across engineering, product, and operations. Drove measurable improvements in scalability, service reliability, and performance for critical internal applications.",
-            "description_cont": "Partnered with DevOps to embed reliability and security into application architecture from day one. Led process automation initiatives that streamlined workflows and reduced manual overhead across teams.",
-            "technology": [
-                "React.js",
-                "TypeScript",
-                "Ruby on Rails",
-                "Go",
-                "PHP",
-                "Kubernetes",
-                "Redis",
-                "MySQL"
-            ],
-            "start": "4/2022",
-            "end": "5/2025"
-        },
-        {
-            "role": "Full-Stack Developer",
-            "company": "Tactable.io",
-            "location": "Toronto, ON",
-            "description": "Built scalable solutions using the latest cloud native technology and best practices. Communicated directly with numerous high value clients. Managed time-sensitive updates, including content changes and database upgrades. Introduced and spearheaded implementation of new technologies into production apps",
-            "description_cont": "Planned, wrote, and debugged web applications and software with complete accuracy. Quickly and accurately transitioned between numerous languages and development stacks as projects demanded.",
-            "technology": [
-                "React.js (Next.js)",
-                "Typescript",
-                "GraphQL",
-                "Hasura",
-                "PostgreSQL",
-                "Docker",
-                "GCP",
-                "Ruby on Rails"
-            ],
-            "start": "9/2019",
-            "end": "4/2022"
-        },
-        {
-            "role": "Technical Support Analyst",
-            "company": "Royal Bay Group",
-            "location": "Toronto, ON",
-            "description": "Diagnosed, troubleshoot, and triaged enterprise technology processes and incidents based on SLA. Managed 2000+ end-users (remote and in-person) through Active Directory/TeamViewer and 4000+ devices including desktops, laptops, printers, docks, and phones (iOS and Android). Supported office internal networks – including WAP, sensors, LAN/network drops, patch panels, switch port/VLAN programming, PoE injection, and server room cable management. Deployed environment-wide user group antivirus policies based on business process requirements",
-            "description_cont": "Performed Windows server administration including Active Directory, group policy, Exchange Server, Office 365. Created MS SQL Server Database maintenance and backup plan. Utilized PowerShell scripting to automate reminders for users with expiring domain passwords. Staged computers, installed and configured hardware, software, and related peripherals.",
-            "technology": [
-                "PowerShell",
-                "Office 365",
-                "Microsoft SQL Server",
-                "Active Directory",
-                "Exchange",
-                "Security",
-                "Rabbit MQ",
-                "Jenkins"
-            ],
-            "start": "3/2019",
-            "end": "8/2019"
-        },
-        {
-            "role": "Application Support Engineer",
-            "company": "Go Reply",
-            "location": "London, UK",
-            "description": "Providing ITIL focused technical web application support for highly transactional e-commerce websites (Costco UK/TW/KR, Monsoon, Iceland, PO Ferries) based on the SAP Hybris platform. Troubleshoot and resolved issues around Cloud infrastructure, Network connectivity issues, Payment Gateway Webservices, SFTP/Webdav protocol-based file servers, Load Balancers, Web Servers, Application Servers, Solr search servers, DB Servers.",
-            "description_cont": "Performed in depth logging analysis with graylogs and using text-based manipulation tools provided by Linux operating systems (Ubuntu) and basic BASH scripting constructs. Acted as client first contact in all issues, this involved frequent comms updates and ensuring client is well informed and any confusion or pain points are eliminated.",
-            "technology": [
-                "SAP Hybris",
-                "Cybersource",
-                "Zabbix",
-                "AppDynamics",
-                "AWS",
-                "GCloud",
-                "Rabbit MQ",
-                "Apache",
-                "Tomcat",
-                "Jenkins",
-                "Mongodb",
-                "MySQL",
-                "Command Line Interface",
-                "BASH"
-            ],
-            "start": "5/2017",
-            "end": "2/2019"
-        },
-        {
-            "role": "Micro-controllers Lab Assistant",
-            "company": "York University - Lassonde School of Engineering",
-            "location": "Toronto, ON",
-            "description": "Helped first and second year students learning C++, VHDL. Initialized and troubleshooted multiple integrated development environments.  ",
-            "description_cont": "Conducted extensive literature review related to lab safety guidelines and MCU datasheets.",
-            "technology": ["C++", "VHDL"],
-            "start": "9/2016",
-            "end": "1/2017"
-        }
-    ],
-    "social": [
-        {
-            "service": "linkedin",
-            "url": "https://www.linkedin.com/in/moeealii/"
-        }
-    ],
-    "role": "AWS Certified Solutions Architect, Full Stack Developer",
-    "projects": [
-        {
-            "name": "Cloud Resume",
-            "company": "Personal Project",
-            "description": "The website you are currently looking at. The frontend is developed in Gatsby, React, Tailwind CSS, while the backend is developed on AWS using IaC (SAM) to deploy a serverless backend of API Gateway, Lambda function and a DynamoDB table. I also use CI/CD tools for both the frontend (CodePipeline) and backend (GitHub Actions)"
-        },
-        {
-            "name": "iOS Application",
-            "company": "Personal Project",
-            "description": "iOS App written in Swift 5 and SwiftUI with Full Firebase Backend Integration. Functional user management system built via Firebase Auth, login with Facebook, Apple ID, Face/Touch ID & forgotten password functionality. All entities retrieved from server database, real-time syncing. Maps, review system, live chat, push notifications, dark mode support, search functionality, owner/seller profiles, user flows and more"
-        },
-        {
-            "name": "Site-To-Site VPN",
-            "company": "Cantril",
-            "description": "Implemented a Dynamic, BGP Based, Highly-Available Site-to-Site VPN between a Hybrid AWS and On-premises environment. Configured IPSEC tunnels for on-premises router. Added FRR IP routing protocol on router."
-        }
-    ],
-    "fullname": "Mohamed Ali"
+    {
+      "role": "Full-Stack Developer",
+      "company": "TextNow",
+      "location": "Waterloo, ON",
+      "start": "4/2022",
+      "end": "5/2025",
+      "description": "Built internal tools end to end with engineering, product, and operations teams, improving reliability and reducing manual work.",
+      "technology": ["React", "TypeScript", "Ruby on Rails", "Go", "Kubernetes"]
+    },
+    {
+      "role": "Full-Stack Developer",
+      "company": "Tactable.io",
+      "location": "Toronto, ON",
+      "start": "9/2019",
+      "end": "4/2022",
+      "description": "Delivered cloud-native applications for clients across changing requirements and technology stacks.",
+      "technology": [
+        "Next.js",
+        "GraphQL",
+        "PostgreSQL",
+        "Docker",
+        "Google Cloud"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Cloud Resume",
+      "company": "Personal Project",
+      "description": "This site is built with Gatsby and React and deployed to AWS through GitHub Actions.",
+      "link": "https://github.com/moeealii/cloud-resume"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Professional Cloud Architect",
+      "provider": "Google Cloud",
+      "issued": "March 2022",
+      "credentialId": "48219724",
+      "link": "https://www.linkedin.com/in/moeealii/details/certifications/"
+    },
+    {
+      "name": "Solutions Architect – Associate",
+      "provider": "Amazon Web Services",
+      "issued": "November 2020",
+      "expired": "November 2023",
+      "link": "https://www.linkedin.com/in/moeealii/details/certifications/"
+    }
+  ],
+  "skills": [
+    {
+      "title": "AI & Backend",
+      "subskills": ["Python", "Go", "LLMs", "Agentic Workflows", "APIs"]
+    },
+    {
+      "title": "Cloud & Infrastructure",
+      "subskills": ["AWS", "Google Cloud", "Kubernetes", "Redis", "CI/CD"]
+    },
+    {
+      "title": "Full-Stack",
+      "subskills": [
+        "React",
+        "TypeScript",
+        "Ruby on Rails",
+        "GraphQL",
+        "PostgreSQL"
+      ]
+    }
+  ],
+  "social": [
+    { "service": "linkedin", "url": "https://www.linkedin.com/in/moeealii/" },
+    { "service": "github", "url": "https://github.com/moeealii" }
+  ]
 }

@@ -1,27 +1,15 @@
-import React from 'react';
-import Social from './Social';
-import VisitorsCounter from './VisitorsCounter';
+import React from "react";
+import Social from "./Social";
 
-const Footer = ({ data }) => {
-    return (
-        <footer className='my-10'>
-            <div className='lg:flex lg:justify-between content-center mx-auto max-w-7xl lg:py-6 py-4 lg:border-t-2'>
-                <div className='items-center flex mb-5 lg:mb-0 justify-center tracking-widest text-sm ml-2'>
-                    <span className='inline-block mr-1'>
-                        © {new Date().getFullYear()} | Made with
-                    </span>
-                    <span role='img' aria-label='love'>
-                        ❤️
-                    </span>
-                </div>
-                <VisitorsCounter />
-                <div className='flex justify-center'>
-                    {data &&
-                        data.map((social, i) => <Social social={social} />)}
-                </div>
-            </div>
-        </footer>
-    );
-};
+const Footer = ({ data = [] }) => (
+  <footer className="resume-footer">
+    <span>© {new Date().getFullYear()} Mohamed Ali</span>
+    <div>
+      {data.map((social) => (
+        <Social social={social} key={social.service} />
+      ))}
+    </div>
+  </footer>
+);
 
 export default Footer;

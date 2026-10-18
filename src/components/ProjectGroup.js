@@ -1,16 +1,15 @@
-import React from 'react';
+import React from "react";
+import Project from "./Project";
 
-import Project from './Project';
-
-const ProjectGroup = ({ data }) => {
-    return (
-        <div className='content-center mx-auto max-w-4xl pb-6'>
-            <div className='mx-10'>
-                <span className='section-header'>Projects</span>
-                {data && data.map((item, i) => <Project item={item} i={i} />)}
-            </div>
-        </div>
-    );
-};
+const ProjectGroup = ({ data = [] }) => (
+  <section className="resume-section" aria-labelledby="projects-title">
+    <h2 className="section-header" id="projects-title">
+      Projects
+    </h2>
+    {data.map((item) => (
+      <Project item={item} key={item.name} />
+    ))}
+  </section>
+);
 
 export default ProjectGroup;
