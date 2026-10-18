@@ -54,7 +54,9 @@
     {
       "name": "Pandew",
       "company": "Side Project",
-      "description": "An AI-powered skincare app for tracking products, scanning them with the camera, and building personalized morning and evening routines."
+      "description": "An AI-powered skincare app for tracking products, scanning them with the camera, and building personalized morning and evening routines.",
+      "link": "https://apps.apple.com/ca/app/pandew/id6797151172",
+      "linkLabel": "App Store"
     },
     {
       "name": "Cloud Resume",

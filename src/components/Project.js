@@ -6,7 +6,7 @@ const Project = ({ item }) => (
       <h3>{item.name}</h3>
       {item.link && (
         <a href={item.link} target="_blank" rel="noreferrer">
-          View code ↗
+          {item.linkLabel || "View code"} ↗
         </a>
       )}
     </div>
